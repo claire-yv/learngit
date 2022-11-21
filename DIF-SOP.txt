@@ -1,0 +1,64 @@
+Statement of Purpose
+
+I have been being interested in Artificial Intelligence since high school
+ My career goal is to become an AI Applied Research Scientist
+
+
+I grew up in a family full of engineers and investors with years of experiences in AI and robotics
+ (May: when did this happen? In high school?) I translated 'The Tao of Startups: A Guidebook For Your Entrepreneurial Life' from Chinese to English in 2020 that was published by Posts & Telecom Press, one of the top China publishers
+ After discussion with many founders of AI startups about the industry and technique challenges, I learned that AI has gone through several cycles and is now in the stage of large-scale commercialization
+ My desire to learn AI has been strengthened brick by brick
+ Therefore, I chose the AI field as the focus of my undergraduate studies
+ 
+
+During my undergraduate studies, I worked diligently and got a GPA of 3.88/4.0 which demonstrated my outstanding mathematics and computer-related skills
+ To develop a thorough AI base (May: what does this mean?)_ and stay up to date with its latest technologies, I enrolled in AI online courses and actively joined a number of AI groups, such as the DL group, and the accelerated first-order algorithm in ML group organized by China Society of Image and Graphics
+ I efficiently learned the state-of-the-art AI algorithms, theories, and future directions by interchanging with the industry veterans
+
+
+To pursue my passion for scientific research, I applied my AI knowledge and skills that I learned from online courses to a project from February 2022 to December 2022 which focuses on preventing diabetes from becoming more prevalent among young people
+ It was the first time that I stepped into the cutting-edge field of AI
+ Specifically, after outlining potential solutions based on the crux of the problems, I and my teammates (May: who are we here?) established a medical knowledge graph centered on diabetes and created a subsequent automatic question-answering software
+ The knowledge graph was developed in Python and the software was implemented in HTML, JavaScript, and other front-end technologies
+ In this challenging project, my strong mathematical and research abilities were positive assets to my work
+ I even applied for software copyright
+
+
+While participating in the study activities of AI groups and working on research projects, I discovered that datasets often have high dimensions that lead to the issue of the 'curse of dimensionality'
+ Thus, I have been exploring feature selection to descend dimension since June 2022
+ In order to determine the sub-research-direction, I read more than 300 relevant papers, which expanded my grasp of this field
+ As a result, I found that labels are precious
+ I specifically chose the unsupervised feature selection direction and explored the subspace clustering feature selection methods, which focus on dataset’s geometric and topological characteristics that match the unsupervised feature selection
+ To further discover technique innovative point, I wrote a review paper that summarized the present subspace clustering feature selection algorithms, application scenarios, and future directions
+ Next I reproduced the mainstream subspace clustering feature selection algorithms employing Matlab and designed my own novel algorithm
+ Currently I am implementing the algorithm and plan to publish a SCI paper in the first half of 2023
+ 
+
+During my researches, I often wondered how to transform researches into products and proved the products' worth with real users
+ Therefore, I decided to take an internship opportunity as an algorithm developer in Realman Intelligent Technology which is a collaborative robot high-tech company
+ First of all, I analyzed the kinematics algorithms
+ Considering the CPU's limited computing capacity and memory constraints, I and my teammates (May: “we” is too vague and inconsisntent with the “I”s used throughout the paragraph
+  Suggest to be specific or keep using “I”) selected the seven-segment S-type acceleration and deceleration method, which could drive more flexibility of the mechanical arm in the Cartesian space and reduce the negative effect of the motion planning algorithm on the arm's position and attitude
+ Secondly, during the implementation process, I discovered gaps between the ideal method and actual performance, such as rounding error
+ To solve the issue, I studied related papers and tested different methods
+ Finally, I successfully deployed a method to increase the robot arm's flexibility and robustness using the C language
+ This internship inspired my research in AI field to a deeper level
+
+
+I believe the MScAC program can provide me the opportunity to learn from a cluster of AI world-class faculty researching the cutting-edge technologies that is core in improving AI
+  Through the MScAC program I can also have internship opportunities in order for me to establish strong relationships among businesses and researchers
+ I am interested in the AI focus of the MScAC program
+ I gradually learn about AI since high school, and now I am very passionate about it
+ AI has now reached the stage of commercialization, and my research experience has built a solid foundation for my development in the AI direction
+ My career goal is to become an AI Applied Scientist who does scientific research with a focus on implementing solutions at scale in real world
+ My previous internship and research experience made me excited about the research work based on the actual needs of products
+ In my career life, I will produce more beneficial and useful output
+ Based on the above reasons, I firmly believe that this program fits me well
+ 
+
+
+
+
+
+
+
